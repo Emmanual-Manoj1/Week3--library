@@ -34,6 +34,7 @@
         Book book2 = new Book();
         book2.Title = "It ends with us";
         book2.Author = "Aurthor";
+        book1.ISBN = "00119922";
 
         // Output book information to the console
         book.DisplayInfo();
